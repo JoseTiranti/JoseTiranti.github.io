@@ -14,6 +14,10 @@ function seleccionar(){
     menuVisible = false;
 }
 
+
+
+
+
 const descarga = document.querySelector(".descarga");
 
 descarga.addEventListener("click", ()=>{
